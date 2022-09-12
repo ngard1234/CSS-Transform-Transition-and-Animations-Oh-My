@@ -1,1 +1,7 @@
 
+button:hover{
+    background-color: cornflowerblue;
+    color: white;
+    transition: background-color 2s, color 2s;
+
+}

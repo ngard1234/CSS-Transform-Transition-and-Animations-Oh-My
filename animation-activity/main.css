@@ -13,8 +13,10 @@ body  {
 }
 
 .hamburger {
+  display: inline-block;
+  
   width: 100px;
-  height: 100px;
+  height: 90px;
   background: mediumvioletred;
   color: ghostwhite;
   display: flex;
